@@ -6,8 +6,15 @@
     <description>Recent content on 伤心树叶</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 18 May 2024 11:19:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 11:36:52 +0000</lastBuildDate>
     <atom:link href="https://hosting.yknw.xyz/curie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curie</title>
+      <link>https://hosting.yknw.xyz/curie/post/001-curie/</link>
+      <pubDate>Sat, 18 May 2024 11:00:00 +0800</pubDate>
+      <guid>https://hosting.yknw.xyz/curie/post/001-curie/</guid>
+      <description>Hello H1 欢迎来到 lou-lou 官网！&#xA;import os os.system(&amp;#34;clear&amp;#34;) public class LuoLuo { public String name; } </description>
+    </item>
     <item>
       <title>Hello World</title>
       <link>https://hosting.yknw.xyz/curie/post/hello-world/</link>
