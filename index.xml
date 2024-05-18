@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>伤心树叶</title>
+    <link>https://hosting.yknw.xyz/curie/</link>
+    <description>Recent content on 伤心树叶</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 18 May 2024 11:19:59 +0000</lastBuildDate>
+    <atom:link href="https://hosting.yknw.xyz/curie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://hosting.yknw.xyz/curie/post/hello-world/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate>
+      <guid>https://hosting.yknw.xyz/curie/post/hello-world/</guid>
+      <description>欢迎 你好，世界！&#xA;这是本博客系统的第一篇文章，由系统自动生成。</description>
+    </item>
+  </channel>
+</rss>
