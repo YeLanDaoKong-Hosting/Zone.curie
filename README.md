@@ -1,3 +1,3 @@
 # Zone: curie
 
-Hello, World! 
+hello
